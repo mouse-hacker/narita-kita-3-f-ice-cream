@@ -1,0 +1,125 @@
+@charset "UTF-8";
+
+
+body{
+    font-family: 'Sawarabi Mincho', serif;
+    font-size: 15px;
+    border-top: 10px solid #79a1b7 !important;
+    margin: 0;
+    padding: 0;
+
+      
+}
+
+
+a{
+
+    color: #333
+}
+
+.logo{
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.logo img{
+    display: inline-block;
+    margin-bottom: 5px;
+    width: 100%;
+    height: auto;
+}
+
+.w_inner{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header ul{
+    display: flex;
+
+}
+
+.header ul li{
+    width: 800px;
+    text-align: center;
+    border-right: 1px solid #ddd;
+}
+
+.header ul li :first-child{
+    border-left: 1px solid #ddd;
+
+}
+
+.header ul li a{
+    display: block;
+}
+
+
+.container_service .service{
+    width: 380px;
+    text-align: center;
+}
+.container_service .service_block{
+    display: flex;
+}
+.container_service h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.container_service .service img{
+    text-align: center;
+    margin-right: 40px;
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 22px;
+}
+.container_service .service .ttl{
+    font-family:'Fredoka One' sans-serif;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 21px;
+    letter-spacing: 0.2em;
+    text-shadow: 3px 3px #aad709;
+}
+.container_service .service .explain{
+    margin-bottom: 20px;
+}
+.container_service .service a {
+    background: #acb1d5;
+    counter-reset: #fff;
+
+    padding: 3px 7px 3px;
+}
+h2 span {
+    font-family: 'Baloo 2', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0,3);
+    text-shadow: 3px 3px #a4f109;
+}
+.container_service .service_block .ttl span{
+    
+    counter-reset: #fff;
+    padding: 2px 5px 3px;
+    letter-spacing: 2px;
+
+}
+.second  {
+    text-align: center;
+    
+}
+.second img{
+    display: inline-block;
+    height: 390px ;
+}
+.menu img{
+    display: block;
+    margin: 0 auto;
+    width:400px;
+    height: auto;
+}
