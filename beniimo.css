@@ -3,7 +3,7 @@ body{
     margin: 0;
     padding: 0;
     max-width: 100%;
-    
+
     font-family: 'Hiragino Kaku Gothic Pro ', 'Meiryo';
     font-size: 20px;
     border-top: 10px solid #797979 !important;
@@ -25,12 +25,6 @@ body{
     text-align: center;
     text-shadow: 3px 3px #e364ef;
 } 
-.ttl img{
-    text-align: center;
-    width: 100%;
-    max-width: 570px;
-    margin: 0 auto;
-}
 .rightimg img{
     position: absolute;
     top: 25px;
@@ -39,8 +33,11 @@ body{
     height: auto;
     z-index: 1000;
 }
-a{
-    text-shadow:3px 3px #e364ef ;
+.ttl img{
+    text-align: center;
+    width: 100%;
+    max-width: 570px;
+    margin: 0 auto;
 }
 h2{
     text-align: center;
