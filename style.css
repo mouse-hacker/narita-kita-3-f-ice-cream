@@ -2,6 +2,9 @@
 
 
 body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
     font-family: 'Sawarabi Mincho', serif;
     font-size: 15px;
     border-top: 10px solid #79a1b7 !important;

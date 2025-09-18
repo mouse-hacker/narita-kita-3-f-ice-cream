@@ -37,14 +37,15 @@ body{
     position: absolute;
     top: 25px;
     right: 18px;
-    width: 110px;
+    width: 90px;
     height: auto;
     z-index: 1000;
 }
 .ttl img{
     text-align: center;
-    width: 400px;
-    height: auto;
+    width: 100%;
+    max-width: 570px;
+    margin: 0 auto;
 }
 .explain {
     font-family: 'Fredoka One' sans-serif;
