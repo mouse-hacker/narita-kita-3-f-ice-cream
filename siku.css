@@ -10,11 +10,12 @@ body{
 .logo{
     text-align: center;
     width: 100%;
-    max-width: 600px;
+    max-width: 570px;
     margin: 0 auto;
 }
 .logo img{
-    width: 400px;
+    text-align: center;
+    width: 100%;
     height: auto;
 }
 .header .explain{
