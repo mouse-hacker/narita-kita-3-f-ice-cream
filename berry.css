@@ -1,7 +1,7 @@
 @charset "UTF-8";
 body{
     text-align: center;
-    width: 375px;
+    width: 400px;
     height: 667px;
     margin: 0 auto;
 
@@ -12,7 +12,7 @@ body{
     padding: 0;
 }
 .logo{
-    width: 375px;
+    width: 400px;
     height: 667px;
     margin: 0 auto;
 }

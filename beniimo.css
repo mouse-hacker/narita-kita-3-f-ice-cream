@@ -1,8 +1,9 @@
 @charset "UTF-8";
 body{
-    margin: 0;
-    padding: 0;
-    width: 100%;
+    text-align: center;
+    width: 400px;
+    height: 667px;
+    margin: 0 auto;
 
     font-family: 'Playfair Display';
     font-size: 20px;
@@ -13,12 +14,13 @@ body{
 }
 .logo{
     text-align: center;
-    width: 100%;
-    max-width: 570px;
-    margin: 0 auto;
+    width: 400px;
+    height:auto;
 }
 .logo img{
     text-align: center;
+    width: 400px;
+    height: auto;
 }
 .header .explain{
     text-align: center;

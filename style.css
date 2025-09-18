@@ -2,22 +2,16 @@
 
 
 body{
-    margin: 0;
-    padding: 0;
-    max-width: 100%;
+    text-align: center;
+    width: 400px;
+    height: 667px;
+    margin: 0 auto;
+    
     font-family: 'Sawarabi Mincho', serif;
     font-size: 15px;
     border-top: 10px solid #79a1b7 !important;
     margin: 0;
-    padding: 0;
-
-      
-}
-
-
-a{
-
-    color: #333
+    padding: 0
 }
 
 .logo{
@@ -126,3 +120,4 @@ h2 span {
     width:400px;
     height: auto;
 }
+
