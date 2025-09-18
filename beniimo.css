@@ -24,6 +24,8 @@ body{
 }
 .header .explain{
     text-align: center;
+    width: 100%;
+    margin: 0 auto;
     text-shadow: 3px 3px #e364ef;
 } 
 .ttl img{
@@ -34,8 +36,12 @@ body{
 }
 h2{
     text-align: center;
+    width: 100%;
+    margin: 0 auto;
 }
 h4{
     text-align: center;
+    width: 100%;
+    margin: 0 auto;
     text-shadow: 3px 3px #e364ef;
 }
