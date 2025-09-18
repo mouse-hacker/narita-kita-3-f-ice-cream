@@ -1,0 +1,44 @@
+@charset "UTF-8";
+body{
+    font-family: 'Hiragino Kaku Gothic Pro ', 'Meiryo';
+    font-size: 20px;
+    border-top: 10px solid #797979 !important;
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    text-align: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    
+}
+.rightimg img{
+    position: absolute;
+    top: 25px;
+    right: 18px;
+    width: 110px;
+    height: auto;
+    z-index: 1000;
+}
+.logo img{
+    width: 400px;
+    height: auto;
+}
+.header .explain{
+    text-align: center;
+    text-shadow: 3px 3px #ebf49b;
+} 
+.ttl img{
+    text-align: center;
+    width: 400px;
+    height: auto;
+}
+a{
+    text-shadow: 3px 3px #eaf4a6;
+}
+h2{
+    text-align: center;
+    text-shadow: 3px 3px #f2f19f;
+}
