@@ -8,7 +8,7 @@ body{
 
     font-family: 'Sawarabi Mincho', serif;
     font-size: 15px;
-    border-top: 10px solid #79a1b7 !important;
+    border-top: 10px solid !important;
     margin: 0;
     padding: 0
 }
@@ -62,7 +62,7 @@ body{
 }
 .container_service .service_block{
     display: flex;
-    width: 85%;
+    width: 77%;
     height: auto;
     margin: 0 auto;
 }
