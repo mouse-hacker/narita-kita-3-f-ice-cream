@@ -54,11 +54,16 @@ body{
 
 
 .container_service .service{
-    width: 360px;
-    margin: 10px;
     text-align: center;
+    width: 370px;
+    height: 400px;
+    object-fit: cover;
+    margin-right: 10px;
 }
 .container_service .service_block{
+    display: flex;
+}
+.container_service .row{
     display: flex;
 }
 .container_service h2{
