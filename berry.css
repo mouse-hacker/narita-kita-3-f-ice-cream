@@ -12,8 +12,9 @@ body{
     padding: 0;
 }
 .logo{
-    width: 400px;
-    height: 667px;
+    text-align: center;
+    width: 100%;
+    max-width: 570px;
     margin: 0 auto;
 }
 .logo img{
@@ -43,5 +44,7 @@ h2{
 }
 h4{
     text-align: center;
+    margin: 0;
+    padding: 0;
     text-shadow: 3px 3px #f39af2
 }
