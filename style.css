@@ -74,6 +74,11 @@ body{
     height: auto;
     margin: 0 auto;
 }
+.container_service last{
+    display: flex;
+    width: 40%;
+    
+}
 .container_service h2{
     text-align: center;
     font-weight: bold;
