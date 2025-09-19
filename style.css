@@ -62,13 +62,13 @@ body{
 }
 .container_service .service_block{
     display: flex;
-    width: 100%;
+    width: 91%;
     height: auto;
     margin: 0 auto;
 }
 .container_service .row{
     display: flex;
-    width: 100%;
+    width: 98%;
     height: auto;
     margin: 0 auto;
 }
