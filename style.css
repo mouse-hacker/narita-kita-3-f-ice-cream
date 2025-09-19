@@ -73,14 +73,10 @@ body{
     margin: 0 auto;
 }
 .row img{
-    width: 100%;
+    width: 98%;
     height: auto;
 }
-.imo img{
-    width: 20px;
-    height: auto;
-    margin: 0 auto;
-}
+
 .container_service h2{
     text-align: center;
     font-weight: bold;
