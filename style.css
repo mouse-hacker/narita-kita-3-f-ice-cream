@@ -76,7 +76,9 @@ body{
 }
 .container_service .last{
     display: flex;
-    width: 40%;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
 
 }
 .container_service h2{
