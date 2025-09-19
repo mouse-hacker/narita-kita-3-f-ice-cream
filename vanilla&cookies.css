@@ -39,6 +39,7 @@ body{
 }
 h2{
     text-align: center;
+    text-shadow: 3px 3px #fddcdc;
 }
 a{
     text-shadow: 3px 3px #b89f9f;

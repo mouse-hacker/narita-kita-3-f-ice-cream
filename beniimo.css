@@ -2,7 +2,7 @@
 body{
     text-align: center;
     width: 400px;
-    height: 667px;
+    height: 670px;
     margin: 0 auto;
 
     font-family: 'Playfair Display';
@@ -14,12 +14,13 @@ body{
 }
 .logo{
     text-align: center;
-    width: 400px;
-    height:auto;
+    width: 100%;
+    max-width: 570px;
+    margin: 0 auto;
 }
 .logo img{
     text-align: center;
-    width: 400px;
+    max-width: 100%;
     height: auto;
 }
 .header .explain{
