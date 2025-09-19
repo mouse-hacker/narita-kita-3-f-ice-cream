@@ -63,6 +63,7 @@ body{
 .container_service .service_block{
     display: flex;
     width: 100%;
+    max-width: 100%;
     height: auto;
     margin: 0 auto;
 }
