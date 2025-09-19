@@ -67,12 +67,7 @@ body{
     height: auto;
     margin: 0 auto;
 }
-.container_service .last{
-    display: flex;
-    width: 100%;
-    height: auto;
-    
-}
+
 .container_service .row{
     display: flex;
     width: 100%;
