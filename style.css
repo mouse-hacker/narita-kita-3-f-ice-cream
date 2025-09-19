@@ -55,6 +55,7 @@ body{
 
 .container_service .service{
     width: 380px;
+    margin: 10px;
     text-align: center;
 }
 .container_service .service_block{
