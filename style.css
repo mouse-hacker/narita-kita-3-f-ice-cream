@@ -68,7 +68,7 @@ body{
 }
 .container_service .row{
     display: flex;
-    width: 98%;
+    width: 100%;
     height: auto;
     margin: 0 auto;
 }
